@@ -54,7 +54,7 @@ main{
 	filter: blur(5px);
 }
 html, body{
-	background-color: #ffffff;
+	background-color: #000000;
 	height: 100vh;
 	scroll-snap-type: y proximity;
 }
