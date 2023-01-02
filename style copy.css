@@ -48,13 +48,21 @@ section:nth-child(11){
 	
 }
 main{
-	height: 300vh;
+	height: 100vh;
+}
+.sticky2 {
+	position:fixed;
+	height: 10rem;
+	bottom: 0;
+	right: 3rem;
+}
+.butt{
 }
 .blur{
 	filter: blur(5px);
 }
 html, body{
-	background-color: #000000;
+	background-color: #ffffff;
 	height: 100vh;
 	scroll-snap-type: y proximity;
 }
